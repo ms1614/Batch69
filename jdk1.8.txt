@@ -162,7 +162,7 @@ example-7
 ---------------------
 package org.sandip;
 import java.util.*;
-public class FourthExample 
+public class SeventhExample 
 {
 	public static void main(String[] args)
 	{
