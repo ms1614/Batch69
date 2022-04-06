@@ -68,7 +68,7 @@ example-2
 ----------------------
 package org.sandip;
 
-public class FirstExample
+public class SecondExample
 {
 public static void main(String[] args) 
 {
